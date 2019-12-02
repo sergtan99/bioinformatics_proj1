@@ -1,0 +1,23 @@
+Score = 9
+
+G__AAC
+_CAAAC
+
+_G_AAC
+C_AAAC
+
+__GAAC
+CA_AAC
+
+G_A_AC
+_CAAAC
+
+_GA_AC
+C_AAAC
+
+G_AA_C
+_CAAAC
+
+_GAA_C
+C_AAAC
+

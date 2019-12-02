@@ -1,0 +1,6 @@
+#Config.txt
+GP   = -2
+SAME =  5
+DIFF = -5
+MAX_NUMBER_PATHS = 100
+MAX_SEQ_LENGTH = 100
